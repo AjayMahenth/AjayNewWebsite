@@ -1,0 +1,19 @@
+---
+title: Blog   
+---
+
+## Blog Post About Editorial "Moving to a World Beyond “p < 0.05"" 
+
+**March 26, 2025**
+
+**What I Learned from "Moving to a World Beyond p < 0.05"**
+
+When I was taught high school statistics, the p-value threshold of 0.05 was treated akin to a sacred line in the sand where results could only possibly be categorized as either significant or not with no in between. Research papers I read in high school would solely base the importance of their results on whether their p-value was <0.05. However, reading this insightful editorial "Moving to a World Beyond p < 0.05," published in The American Statistician, has truly transformed how I think about statistical inference and even research integrity.
+
+The first and most marked takeaway I had from the editorial was the argument that the terminology of "statistically significant" must be abandoned in its entirety. These two words set up the dichotomy between "significant" and "not significant" results that entirely oversimplifies reality and has the potential to mislead both researchers and readers. I had always known there was limitations to using p-values, but the editorial really helped me understand how damaging it can be to rely on arbitrary thresholds for making scientific claims.
+
+Another critical point that resonated with me was the call to accept uncertainty. As someone who works closely with noisy biomedical data and hospital records, I feel this idea is much easier said than done. Especially as an undergraduate student, my research supervisors are often expecting hard and fast results from me which makes this idea one that is hard to follow. However, accepting uncertainty must be done to move away from judging all results on p<.05. It is more important to still communicate variability and confidence transparently, rather than hiding behind a false sense of certainty. I have tried to follow this ideal in my research. 
+
+The final part of this editorial that I enjoyed was the last few sections where the authors collated major points from various other publications about moving past using the p<.05 threshold. Looking at these papers helped give me encouragement that many researchers at the forefront of the scientific community can see that it is time for change and are providing a blueprint for future research to prevent judging all results by arbitrary p value thresholds. 
+
+This piece has fundamentally altered my views on statistical inference. It’s a call to be thoughtful, open, and modest - three qualities that will make me a better researcher and a more meaningful contributor to scientific knowledge.
